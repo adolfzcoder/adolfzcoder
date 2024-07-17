@@ -1,6 +1,12 @@
+# adolfzcoder
+
 <h2 align="center"> Hallo! I am Adolf David 👋</h2>
 
 <p align="center">Passionate software developer</p>
+
+<h2 align="center"> Hallo! I am Adolf David 👋</h2>
+
+<p align="center">Passionate software developer.</p>
 
 <div align="center">
   <a href="https://github.com/adolfzcoder">
@@ -49,6 +55,6 @@
 
 <br />
 
----
+
 
 <h3 align="center">Let's connect and collaborate! 😃</h3>
