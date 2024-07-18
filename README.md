@@ -2,10 +2,6 @@
 
 <h2 align="center"> Hallo! I am Adolf David 👋</h2>
 
-<p align="center">Passionate software developer</p>
-
-<h2 align="center"> Hallo! I am Adolf David 👋</h2>
-
 <p align="center">Passionate software developer.</p>
 
 <div align="center">
@@ -37,9 +33,6 @@
 <!-- JavaScript Icon -->
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-<!-- Hack Icon -->
-<img align="center" alt="Hack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hack/hack-original.svg">
-
 </div>
 
 <br />
@@ -54,7 +47,5 @@
 </div>
 
 <br />
-
-
 
 <h3 align="center">Let's connect and collaborate! 😃</h3>
