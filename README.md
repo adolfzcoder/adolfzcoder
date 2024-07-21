@@ -15,6 +15,11 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
+
+  <?-- python icon -->
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <!-- PHP Icon -->
 <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
