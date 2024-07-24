@@ -1,8 +1,8 @@
 # adolfzcoder
 
-<h2 align="center"> Hallo! I am Adolf David 👋</h2>
+<h2 align="center">Hi, i am Adolf David</h2>
 
-<p align="center">Passionate software developer.</p>
+<p align="center">Self taught Software Developer.</p>
 
 <div align="center">
   <a href="https://github.com/adolfzcoder">
@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <h3>Technologies & Tools</h3>
+  <h3>Languages I use</h3>
 
   <?-- python icon -->
 
