@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, i am Adolf David</h2>
 
-<p align="center">Self taught Software Developer.</p>
+<p align="center">A Self taught Software Developer.</p>
 
 <div align="center">
   <a href="https://github.com/adolfzcoder">
