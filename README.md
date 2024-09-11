@@ -1,4 +1,3 @@
-# Adolf David
 
 
 <p align="center">Self taught Software Developer.</p>
