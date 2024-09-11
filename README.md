@@ -1,6 +1,6 @@
 
 
-<p align="center">Self taught Software Developer.</p>
+<h3 align="center">Self taught Software Developer.</h3>
 
 <div align="center">
   <a href="https://github.com/adolfzcoder">
