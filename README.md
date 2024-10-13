@@ -1,13 +1,10 @@
 <h3 align="center">Self taught Software Developer.</h3>
 
 <div align="center">
-  <a href="https://github.com/adolfzcoder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adolfzcoder&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfzcoder&layout=compact&langs_count=7&theme=prussian"/>
-  </a>
 
 
-  # 📊 GitHub Stats:
+
+  # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adolfzcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adolfzcoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfzcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
