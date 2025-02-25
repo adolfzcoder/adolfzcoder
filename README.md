@@ -1,10 +1,9 @@
 <h3 align="center">Self taught Software Developer.</h3>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adolfzcoder)
+[![](https://visitcount.itsvg.in/api?id=adolfzcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 
 
-[![](https://visitcount.itsvg.in/api?id=adolfzcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
   # GitHub Stats:
