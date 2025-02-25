@@ -1,6 +1,5 @@
 <h3 align="center">Self taught Software Developer.</h3>
-[![](https://visitcount.itsvg.in/api?id=adolfzcoder&icon=0&color=0)](https://visitcount.itsvg.in)
-[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adolfzcoder)
+
 <div align="center">
 
 
